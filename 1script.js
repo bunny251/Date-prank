@@ -45,7 +45,7 @@ yesBtn.addEventListener("click", () => {
   document.body.innerHTML = `
     <div class="yes-screen">
       <h1>YAYYYYYY!!! ❤️😍</h1>
-      <p>See you on the date 😉</p>
+      <p>See you soon yogita 😉</p>
       <div class="hearts"></div>
     </div>
   `;
